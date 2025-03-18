@@ -41,5 +41,5 @@
 ### 🔗 CONTRIBUIÇÃO
 
 ```
-$ git clone https://github.com/kaiquesouzasantos/etec-cidade-tiradentes-desenvolvimento-sistemas.git 
+$ git clone https://github.com/kaiquesouzasantos/etec-desenvolvimento-sistemas.git 
 ```
