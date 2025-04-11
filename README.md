@@ -1,4 +1,4 @@
-<h1 align=center>🌇 ETEC CIDADE TIRADENTES - DESENVOLVIMENTO DE SISTEMAS</h1>
+<h1 align=center>DESENVOLVIMENTO DE SISTEMAS</h1>
 
 <p align="center">
   <img src="etec_l.png" width="500">
